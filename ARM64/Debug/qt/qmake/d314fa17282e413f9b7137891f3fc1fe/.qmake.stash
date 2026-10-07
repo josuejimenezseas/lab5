@@ -1,0 +1,66 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1951
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 195136256
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/include" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/ATLMFC/include" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Auxiliary/VS/include" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/um" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/winrt" \
+    "C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/cppwinrt"
+QMAKE_CXX.LIBDIRS = \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/ATLMFC/lib/ARM64" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/lib/ARM64" \
+    "C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/ucrt/arm64" \
+    "C:/Program Files (x86)/Windows Kits/10/lib/10.0.26100.0/um/arm64"
+QMAKE_CXX.PATH = \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/HostARM64/ARM64" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/VCPackages" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/bin/Roslyn" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Team Tools/DiagnosticsHub/Collector" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/Extensions/Microsoft/CodeCoverage.Console" \
+    "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/arm64" \
+    "C:/Program Files (x86)/Windows Kits/10/bin/arm64" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/arm64" \
+    C:/Windows/Microsoft.NET/Framework64/v4.0.30319 \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/Tools" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/HostArm64/arm64" \
+    "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x86" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/tools" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/ide" \
+    "C:/Program Files (x86)/HTML Help Workshop" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin" \
+    C:/Windows/Microsoft.NET/Framework/v4.0.30319 \
+    C:/Windows/system32 \
+    C:/Windows \
+    C:/Windows/System32/Wbem \
+    C:/Windows/System32/WindowsPowerShell/v1.0 \
+    C:/Windows/System32/OpenSSH \
+    "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit" \
+    "C:/Program Files/nodejs" \
+    "C:/Program Files/Git/cmd" \
+    "C:/Program Files/GitHub CLI" \
+    "C:/Program Files/eSpeak NG" \
+    C:/Users/josue/AppData/Local/hermes/bin \
+    C:/Users/josue/.local/bin \
+    C:/Users/josue/AppData/Local/Programs/Python/Launcher \
+    C:/Users/josue/AppData/Local/Microsoft/WindowsApps \
+    C:/Users/josue/AppData/Roaming/npm \
+    C:/Users/josue/AppData/Local/Programs/Ollama \
+    C:/Users/josue/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.2.0-aarch64-pc-windows-msvc \
+    C:/Users/josue/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-9.0.2-full_build/bin \
+    C:/Users/josue/AppData/Local/Programs/Cua/cua-driver/bin \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-arm64/native" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe" \
+    "C:/Program Files/Microsoft Visual Studio/18/Community/VC/vcpkg"
